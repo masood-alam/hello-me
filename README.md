@@ -20,3 +20,10 @@ MY PACKAGES
 ============
 Eclipse, JBoss-5.1.0.GA, Wildfly10
 
+WHERE IS MY EXPERINCE
+======================
+Java standalone Applications 
+Telecom SLEE Applications for JBOSS5
+Rest Api using Jersey
+Spring Boot applications
+Jdbc applications with MySQL
