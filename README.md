@@ -15,3 +15,8 @@ I have also used JAIN-SLEE based projects such as smscgateway, ussdgateway etc.
 MY TOOLS
 ========
 Maven, Ant, JDK, 
+
+MY PACKAGES
+============
+Eclipse, JBoss-5.1.0.GA, Wildfly10
+
