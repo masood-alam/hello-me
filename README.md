@@ -20,3 +20,12 @@ MY PACKAGES
 ============
 Eclipse, JBoss-5.1.0.GA, Wildfly10
 
+
+MY EXPERIENCE
+=============
+Java Standalone Applications
+Telecom Applications with SS7 protocols using JAIN-SLEE in JBOSS-5.1.0.GA Server
+Rest Api using Apache Jersey package
+Spring Boot Applications
+Jdbc applications with MySql
+
