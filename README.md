@@ -12,3 +12,6 @@ deep interst in Telecom protocols such as SS7.
 I have studied Dialogic Protocol Stack and Mobicents Java protocol implmentations.
 I have also used JAIN-SLEE based projects such as smscgateway, ussdgateway etc.
 
+MY TOOLS
+========
+Maven, Ant, JDK, 
