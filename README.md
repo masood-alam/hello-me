@@ -14,17 +14,18 @@ I have also used JAIN-SLEE based projects such as smscgateway, ussdgateway etc.
 
 MY TOOLS
 ========
-Maven, Ant, JDK, 
+Maven, Ant, JDK, Eclipse
 
 MY PACKAGES
 ============
-Eclipse, JBoss-5.1.0.GA, Wildfly10
-
+JBoss-5.1.0.GA, Wildfly10
+Restcomm-JSS7, Restcomm-JAIN-SLEE
 
 MY EXPERIENCE
 =============
-Java Standalone Applications
+Java Standalone Applications using HTTP and SS7 Protocols
 Telecom Applications with SS7 protocols using JAIN-SLEE in JBOSS-5.1.0.GA Server
+such as SMSCGateway, USSDGateway, CAMELgateway
 Rest Api using Apache Jersey package
 Spring Boot Applications
 Jdbc applications with MySql
