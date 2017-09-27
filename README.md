@@ -14,9 +14,9 @@ I have also used JAIN-SLEE based projects such as smscgateway, ussdgateway etc.
 
 MY TOOLS
 ========
-Maven, Ant, JDK, 
+Maven, Ant, JDK, Eclipse
 
 MY PACKAGES
 ============
-Eclipse, JBoss-5.1.0.GA, Wildfly10
+JBoss-5.1.0.GA, Wildfly10, Restcomm Jain-Slee
 
